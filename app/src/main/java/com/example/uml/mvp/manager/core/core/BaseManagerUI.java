@@ -31,3 +31,4 @@ public abstract class BaseManagerUI implements ManagerUI {
         transaction.commitAllowingStateLoss();
     }
 }
+
